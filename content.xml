@@ -1,0 +1,872 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260529133628JRMDWQ</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260529133628VE24T3</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Vidas en guerra. Comprendiendo la Guerra Civil Española desde la mirada de las personas</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>Proyecto para 6º de Educación Primaria</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Lorena Hidalgo Oviedo</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1780038169589</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-1780038225912-zon98exsm</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Vidas en guerra Comprendiendo la Guerra Civil Española desde la mirada de las personas</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Vidas en guerra Comprendiendo la Guerra Civil Española desde la mirada de las personas</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780038225912-zon98exsm</odePageId>
+      <odeBlockId>block-1780038314126-4b0wn62wm</odeBlockId>
+      <blockName>Galería de imágenes</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780038225912-zon98exsm</odePageId>
+          <odeBlockId>block-1780038314126-4b0wn62wm</odeBlockId>
+          <odeIdeviceId>idevice-1780038314117-lv9d8fngn</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1780038314117-lv9d8fngn" title="" href="{{context_path}}/content/resources/OIP_1.jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/OIP_1.jpg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780038314117-lv9d8fngn","img_0":{"img":"{{context_path}}/content/resources/OIP_1.jpg","thumbnail":"{{context_path}}/content/resources/OIP_1.jpg","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1780038225912-zon98exsm</odePageId>
+      <odeBlockId>block-1780038440333-4vxcynm63</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780038225912-zon98exsm</odePageId>
+          <odeBlockId>block-1780038440333-4vxcynm63</odeBlockId>
+          <odeIdeviceId>idevice-1780038440330-kvacicbc6</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Vidas en guerra<br />Comprendiendo la Guerra Civil Española desde la mirada de las personas<br />Proyecto para 6º de Educación Primaria</p>
+<p>Fig. 1: Recreación digital de una escena bélica mediante Inteligencia Artificial. Fuente: Museo Bustos (Ilustración contemporánea, no histórica).</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780038440330-kvacicbc6","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Vidas en guerra<br />Comprendiendo la Guerra Civil Española desde la mirada de las personas<br />Proyecto para 6º de Educación Primaria</p>\n<p>Fig. 1: Recreación digital de una escena bélica mediante Inteligencia Artificial. Fuente: Museo Bustos (Ilustración contemporánea, no histórica).</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780038881983-slax7vtkd</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Presentación del proyecto</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Presentación del proyecto</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780038881983-slax7vtkd</odePageId>
+      <odeBlockId>block-1780038927637-47mlvniz8</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780038881983-slax7vtkd</odePageId>
+          <odeBlockId>block-1780038927637-47mlvniz8</odeBlockId>
+          <odeIdeviceId>idevice-1780038927629-612afsueq</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Vidas en guerra: comprendiendo la Guerra Civil Española desde la mirada de las personas<br />Este proyecto está dirigido al alumnado de 6º de Educación Primaria y tiene como objetivo conocer la Guerra Civil Española desde una perspectiva cercana, centrándonos en la vida cotidiana de las personas, especialmente de los niños y niñas.</p>
+<p>A lo largo del proyecto investigaremos qué ocurrió durante este periodo histórico y cómo afectó a la vida diaria de las familias, la escuela, la alimentación y la infancia.</p>
+<p>El alumnado trabajará de forma individual y cooperativa utilizando herramientas digitales para investigar, crear contenidos y elaborar un producto final creativo.</p>
+<p>Materias implicadas<br />Conocimiento del Medio Natural, Social y Cultural<br />Lengua Castellana y Literatura<br />Educación Artística<br />Temporalización<br />10 sesiones.</p>
+<p>¿QUÉ VAMOS A HACER? (PRODUCTO FINAL)<br />Producto final<br />El producto final del proyecto consistirá en la creación de una historia digital sobre un niño o niña que vivió durante la Guerra Civil Española.</p>
+<p>Cada grupo elaborará una presentación digital utilizando herramientas como Canva o Genially, incluyendo:</p>
+<p>Información sobre la vida cotidiana<br />Imágenes y texto explicativo<br />Situaciones relacionadas con la guerra<br />Reflexiones personales<br />El objetivo es comprender cómo afectó la guerra a las personas y desarrollar empatía hacia quienes vivieron esa etapa histórica.</p>
+<p>Fig. 2: Estudiantes en un aula escolar. Fuente: Fotografía de archivo (banco de imágenes).</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780038927629-612afsueq","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Vidas en guerra: comprendiendo la Guerra Civil Española desde la mirada de las personas<br />Este proyecto está dirigido al alumnado de 6º de Educación Primaria y tiene como objetivo conocer la Guerra Civil Española desde una perspectiva cercana, centrándonos en la vida cotidiana de las personas, especialmente de los niños y niñas.</p>\n<p>A lo largo del proyecto investigaremos qué ocurrió durante este periodo histórico y cómo afectó a la vida diaria de las familias, la escuela, la alimentación y la infancia.</p>\n<p>El alumnado trabajará de forma individual y cooperativa utilizando herramientas digitales para investigar, crear contenidos y elaborar un producto final creativo.</p>\n<p>Materias implicadas<br />Conocimiento del Medio Natural, Social y Cultural<br />Lengua Castellana y Literatura<br />Educación Artística<br />Temporalización<br />10 sesiones.</p>\n<p>¿QUÉ VAMOS A HACER? (PRODUCTO FINAL)<br />Producto final<br />El producto final del proyecto consistirá en la creación de una historia digital sobre un niño o niña que vivió durante la Guerra Civil Española.</p>\n<p>Cada grupo elaborará una presentación digital utilizando herramientas como Canva o Genially, incluyendo:</p>\n<p>Información sobre la vida cotidiana<br />Imágenes y texto explicativo<br />Situaciones relacionadas con la guerra<br />Reflexiones personales<br />El objetivo es comprender cómo afectó la guerra a las personas y desarrollar empatía hacia quienes vivieron esa etapa histórica.</p>\n<p>Fig. 2: Estudiantes en un aula escolar. Fuente: Fotografía de archivo (banco de imágenes).</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1780038881983-slax7vtkd</odePageId>
+      <odeBlockId>block-1780038940128-42gwtzwba</odeBlockId>
+      <blockName>Galería de imágenes</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780038881983-slax7vtkd</odePageId>
+          <odeBlockId>block-1780038940128-42gwtzwba</odeBlockId>
+          <odeIdeviceId>idevice-1780038940127-n3ljvb8og</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1780038940127-n3ljvb8og" title="" href="{{context_path}}/content/resources/OIP (1).jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/OIP (1).jpg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780038940127-n3ljvb8og","img_0":{"img":"{{context_path}}/content/resources/OIP (1).jpg","thumbnail":"{{context_path}}/content/resources/OIP (1).jpg","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780039109793-knfyhxxtk</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Protección de datos y uso responsable</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Protección de datos y uso responsable</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780039109793-knfyhxxtk</odePageId>
+      <odeBlockId>block-1780039274392-579br778m</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780039109793-knfyhxxtk</odePageId>
+          <odeBlockId>block-1780039274392-579br778m</odeBlockId>
+          <odeIdeviceId>idevice-1780039274378-omit1vd00</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Uso seguro de las herramientas digitales<br />Durante el proyecto utilizaremos recursos digitales y herramientas online, por lo que es importante seguir algunas normas:</p>
+<p>No compartir datos personales.<br />Utilizar imágenes y recursos con fines educativos.<br />Mantener una actitud respetuosa en internet.<br />No publicar contenido sin permiso del docente.<br />Respetar los derechos de autor y citar las fuentes utilizadas.<br />El uso responsable de las tecnologías nos ayuda a aprender de forma segura y respetuosa.</p>
+<p><img src="{{context_path}}/content/resources/Infografía Educativa Proyecto Creativo Verde y Beige (1).png" title="Infografía" width="356" height="890" alt="" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780039274378-omit1vd00","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Uso seguro de las herramientas digitales<br />Durante el proyecto utilizaremos recursos digitales y herramientas online, por lo que es importante seguir algunas normas:</p>\n<p>No compartir datos personales.<br />Utilizar imágenes y recursos con fines educativos.<br />Mantener una actitud respetuosa en internet.<br />No publicar contenido sin permiso del docente.<br />Respetar los derechos de autor y citar las fuentes utilizadas.<br />El uso responsable de las tecnologías nos ayuda a aprender de forma segura y respetuosa.</p>\n<p><img src=\"{{context_path}}/content/resources/Infografía Educativa Proyecto Creativo Verde y Beige (1).png\" title=\"Infografía\" width=\"356\" height=\"890\" alt=\"\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780039779090-ktj2perv6</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Recursos para aprender</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Recursos para aprender</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780039779090-ktj2perv6</odePageId>
+      <odeBlockId>block-1780039781657-vbzfbhss0</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780039779090-ktj2perv6</odePageId>
+          <odeBlockId>block-1780039781657-vbzfbhss0</odeBlockId>
+          <odeIdeviceId>idevice-1780039781654-h4gtaqa91</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En este espacio encontrarás vídeos, imágenes, líneas del tiempo y recursos digitales para investigar sobre la Guerra Civil Española.</p>
+<p>Estos materiales te ayudarán a comprender mejor el contexto histórico y realizar las actividades del proyecto.</p>
+<p><a href="https://padlet.com/lhidovi602/guerra-civil-espanola-recursos-del-alumnado-4np3h7aesgap1vcp" title="">https://padlet.com/lhidovi602/guerra-civil-espanola-recursos-del-alumnado-4np3h7aesgap1vcp</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780039781654-h4gtaqa91","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En este espacio encontrarás vídeos, imágenes, líneas del tiempo y recursos digitales para investigar sobre la Guerra Civil Española.</p>\n<p>Estos materiales te ayudarán a comprender mejor el contexto histórico y realizar las actividades del proyecto.</p>\n<p><a href=\"https://padlet.com/lhidovi602/guerra-civil-espanola-recursos-del-alumnado-4np3h7aesgap1vcp\" title=\"\">https://padlet.com/lhidovi602/guerra-civil-espanola-recursos-del-alumnado-4np3h7aesgap1vcp</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780039887355-m9pq0e91s</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Herramientas digitales</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Herramientas digitales</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780039887355-m9pq0e91s</odePageId>
+      <odeBlockId>block-1780039901108-getocc3te</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780039887355-m9pq0e91s</odePageId>
+          <odeBlockId>block-1780039901108-getocc3te</odeBlockId>
+          <odeIdeviceId>idevice-1780039901106-kp1iqp117</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Durante el proyecto utilizaremos diferentes herramientas digitales para investigar, crear contenidos y presentar los trabajos.</p>
+<p><a href="https://www.symbaloo.com/mix/herramientas-digitales-qlop" title="">https://www.symbaloo.com/mix/herramientas-digitales-qlop</a></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780039901106-kp1iqp117","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Durante el proyecto utilizaremos diferentes herramientas digitales para investigar, crear contenidos y presentar los trabajos.</p>\n<p><a href=\"https://www.symbaloo.com/mix/herramientas-digitales-qlop\" title=\"\">https://www.symbaloo.com/mix/herramientas-digitales-qlop</a></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780040157188-fzox43vip</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Actividades del proyecto</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividades del proyecto</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780040157188-fzox43vip</odePageId>
+      <odeBlockId>block-1780040330834-uqbndl6hl</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780040157188-fzox43vip</odePageId>
+          <odeBlockId>block-1780040330834-uqbndl6hl</odeBlockId>
+          <odeIdeviceId>idevice-1780040330832-vy639zo0i</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Durante el proyecto realizaremos las siguientes tareas:</p>
+<p>Lluvia de ideas sobre la Guerra Civil Española.<br />Visualización de vídeos explicativos.<br />Investigación sobre la vida cotidiana durante la guerra.<br />Análisis de imágenes históricas.<br />Creación de un personaje ficticio.<br />Elaboración del producto final digital.<br />Exposición oral del trabajo.<br />Reflexión final sobre lo aprendido.<br />Estas actividades permitirán desarrollar la comprensión histórica, la creatividad y la competencia digital.</p>
+<p></p>
+<p>Fig. 3: Civiles entre las ruinas tras un bombardeo en Madrid durante la Guerra Civil Española (c. 1936-1937). Fuente: Archivo Histórico / Museo Bustos.<br /> </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780040330832-vy639zo0i","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Durante el proyecto realizaremos las siguientes tareas:</p>\n<p>Lluvia de ideas sobre la Guerra Civil Española.<br />Visualización de vídeos explicativos.<br />Investigación sobre la vida cotidiana durante la guerra.<br />Análisis de imágenes históricas.<br />Creación de un personaje ficticio.<br />Elaboración del producto final digital.<br />Exposición oral del trabajo.<br />Reflexión final sobre lo aprendido.<br />Estas actividades permitirán desarrollar la comprensión histórica, la creatividad y la competencia digital.</p>\n<p></p>\n<p>Fig. 3: Civiles entre las ruinas tras un bombardeo en Madrid durante la Guerra Civil Española (c. 1936-1937). Fuente: Archivo Histórico / Museo Bustos.<br /> </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1780040157188-fzox43vip</odePageId>
+      <odeBlockId>block-1780040342706-1ttvwu2in</odeBlockId>
+      <blockName>Galería de imágenes</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780040157188-fzox43vip</odePageId>
+          <odeBlockId>block-1780040342706-1ttvwu2in</odeBlockId>
+          <odeIdeviceId>idevice-1780040342705-7mv4eopvm</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1780040342705-7mv4eopvm" title="" href="{{context_path}}/content/resources/OIP (2).jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/OIP (2).jpg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780040342705-7mv4eopvm","img_0":{"img":"{{context_path}}/content/resources/OIP (2).jpg","thumbnail":"{{context_path}}/content/resources/OIP (2).jpg","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780040171306-th6ds82lt</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Guía didáctica</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780040171306-th6ds82lt</odePageId>
+      <odeBlockId>block-1780040454358-g4o8rn6qz</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780040171306-th6ds82lt</odePageId>
+          <odeBlockId>block-1780040454358-g4o8rn6qz</odeBlockId>
+          <odeIdeviceId>idevice-1780040454354-zlmph8x0b</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Este proyecto está diseñado para el alumnado de 6º de Educación Primaria dentro del área de Conocimiento del Medio Natural, Social y Cultural.</p>
+<p>Objetivos<br />Comprender la Guerra Civil Española desde una perspectiva humana.<br />Buscar y seleccionar información fiable.<br />Desarrollar la empatía y el pensamiento crítico.<br />Utilizar herramientas digitales de forma segura y responsable.<br />Metodología<br />Se utilizará una metodología activa basada en:</p>
+<p>Aprendizaje cooperativo<br />Investigación guiada<br />Uso de recursos digitales<br />Creación de contenidos</p>
+<p><a href="https://docs.google.com/document/d/1NTQYXYirVB3y3s-uMsMykKPQNskLOmQAHl38TFtRpe4/edit?usp=sharing" title="">https://docs.google.com/document/d/1NTQYXYirVB3y3s-uMsMykKPQNskLOmQAHl38TFtRpe4/edit?usp=sharing</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780040454354-zlmph8x0b","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Este proyecto está diseñado para el alumnado de 6º de Educación Primaria dentro del área de Conocimiento del Medio Natural, Social y Cultural.</p>\n<p>Objetivos<br />Comprender la Guerra Civil Española desde una perspectiva humana.<br />Buscar y seleccionar información fiable.<br />Desarrollar la empatía y el pensamiento crítico.<br />Utilizar herramientas digitales de forma segura y responsable.<br />Metodología<br />Se utilizará una metodología activa basada en:</p>\n<p>Aprendizaje cooperativo<br />Investigación guiada<br />Uso de recursos digitales<br />Creación de contenidos</p>\n<p><a href=\"https://docs.google.com/document/d/1NTQYXYirVB3y3s-uMsMykKPQNskLOmQAHl38TFtRpe4/edit?usp=sharing\" title=\"\">https://docs.google.com/document/d/1NTQYXYirVB3y3s-uMsMykKPQNskLOmQAHl38TFtRpe4/edit?usp=sharing</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780040180814-vl3uvltma</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Línea temporal</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Línea temporal</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780040180814-vl3uvltma</odePageId>
+      <odeBlockId>block-1780040599088-g882ogt30</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780040180814-vl3uvltma</odePageId>
+          <odeBlockId>block-1780040599088-g882ogt30</odeBlockId>
+          <odeIdeviceId>idevice-1780040599083-x3o99rw5y</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>A continuación puedes consultar la línea temporal del proyecto, donde aparecen las actividades, los agrupamientos, las herramientas y las sesiones previstas.</p>
+<p><img src="{{context_path}}/content/resources/mceclip0.jpg" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780040599083-x3o99rw5y","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>A continuación puedes consultar la línea temporal del proyecto, donde aparecen las actividades, los agrupamientos, las herramientas y las sesiones previstas.</p>\n<p><img src=\"{{context_path}}/content/resources/mceclip0.jpg\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780040189875-184dval7d</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Evaluación</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Evaluación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780040189875-184dval7d</odePageId>
+      <odeBlockId>block-1780040681226-xlawf4xof</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780040189875-184dval7d</odePageId>
+          <odeBlockId>block-1780040681226-xlawf4xof</odeBlockId>
+          <odeIdeviceId>idevice-1780040681220-hbf0qexdw</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>¿Cómo vamos a ser evaluados?<br />La evaluación del proyecto se realizará mediante diferentes instrumentos:</p>
+<p>Rúbrica<br />Permitirá valorar:</p>
+<p>Comprensión del contenido histórico<br />Creatividad<br />Organización del trabajo<br />Uso de herramientas digitales<br />Diana de autoevaluación<br />Ayudará al alumnado a reflexionar sobre:</p>
+<p>Participación<br />Trabajo en grupo<br />Esfuerzo<br />Comprensión del tema<br />Uso de herramientas digitales<br />Creatividad</p>
+<p><a href="https://docs.google.com/document/d/1tRbQcLhEsCzB7i7AbQMed3wpG5cd_SjCp6gktPO5K3c/edit?usp=sharing" title="">https://docs.google.com/document/d/1tRbQcLhEsCzB7i7AbQMed3wpG5cd_SjCp6gktPO5K3c/edit?usp=sharing</a></p>
+<p><img src="{{context_path}}/content/resources/mceclip1.png" /><img src="{{context_path}}/content/resources/mceclip3.png" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780040681220-hbf0qexdw","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>¿Cómo vamos a ser evaluados?<br />La evaluación del proyecto se realizará mediante diferentes instrumentos:</p>\n<p>Rúbrica<br />Permitirá valorar:</p>\n<p>Comprensión del contenido histórico<br />Creatividad<br />Organización del trabajo<br />Uso de herramientas digitales<br />Diana de autoevaluación<br />Ayudará al alumnado a reflexionar sobre:</p>\n<p>Participación<br />Trabajo en grupo<br />Esfuerzo<br />Comprensión del tema<br />Uso de herramientas digitales<br />Creatividad</p>\n<p><a href=\"https://docs.google.com/document/d/1tRbQcLhEsCzB7i7AbQMed3wpG5cd_SjCp6gktPO5K3c/edit?usp=sharing\" title=\"\">https://docs.google.com/document/d/1tRbQcLhEsCzB7i7AbQMed3wpG5cd_SjCp6gktPO5K3c/edit?usp=sharing</a></p>\n<p><img src=\"{{context_path}}/content/resources/mceclip1.png\" /><img src=\"{{context_path}}/content/resources/mceclip3.png\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780040201677-g2hotuagj</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Créditos</pageName>
+  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780040201677-g2hotuagj</odePageId>
+      <odeBlockId>block-1780041117161-n5544pfl9</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780040201677-g2hotuagj</odePageId>
+          <odeBlockId>block-1780041117161-n5544pfl9</odeBlockId>
+          <odeIdeviceId>idevice-1780041117155-ouowmqolk</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">Vidas en guerra. Comprendiendo la Guerra Civil Española desde la mirada de las personas</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">-</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Lorena Hidalgo Oviedo</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
